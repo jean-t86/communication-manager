@@ -1,0 +1,3 @@
+rootProject.name='CommunicationManager'
+include ':sample'
+include ':communicationmanager'
